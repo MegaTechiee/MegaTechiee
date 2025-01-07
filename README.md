@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 A Passionate Engineer interested in designing & building web applications.
 - 👯 Currently working and collaborating with few projects to feed my passion.
 - 🌱 Getting Grip on Node and architecture.
-- 💬 Ask me about React|Docker|Playwright|SSR>CSR
+- 💬 Ask me about React | Docker | Playwright | SSR >> CSR
 - 📫 write to mega5jhan@gmail.com
 - 🌐 Likes to contribute to the open source projects.
 - ⚡ Developers have superpowers...😄
